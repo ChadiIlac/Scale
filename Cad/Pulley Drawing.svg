@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5in"
+   height="5in"
+   viewBox="0 0 127 127"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Pulley Drawing.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="393.83924"
+     inkscape:cy="262.12519"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-169.99998)"
+     style="display:inline;opacity:1">
+    <circle
+       id="path815"
+       cx="63.5"
+       cy="233.49998"
+       r="31.404167"
+       style="fill:none;stroke:#000000;stroke-width:0.665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       id="path815-3"
+       cx="63.5"
+       cy="233.49998"
+       r="8.2040939"
+       style="fill:none;stroke:#000000;stroke-width:0.66500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       id="path815-3-5"
+       cx="63.5"
+       cy="233.49998"
+       r="3.4521952"
+       style="fill:none;stroke:#000000;stroke-width:0.66500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66500002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 63.476511,233.65709 V 176.99595"
+       id="path4558"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.62800002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 55.324793,233.51482 V 197.85165"
+       id="path4558-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66799998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 32.072344,266.13065 v -34.2108"
+       id="path4558-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000400;stroke-width:0.66499996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6043"
+       width="15.234363"
+       height="15.234363"
+       x="22.17844"
+       y="270.35654" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.668;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 55.324792,197.85165 c -9.232267,-2.49133 1.231088,-10.50906 4.009044,-4.95315 1.442556,2.88511 -18.814185,-2.77123 -5.479026,-7.21628 0.914408,-0.3048 3.961124,-0.44882 4.543581,0.13364 1.419476,1.41947 -16.81902,1.72368 -3.073599,-5.34539"
+       id="path6045"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000400;stroke-width:0.66799998;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6047"
+       sodipodi:type="arc"
+       sodipodi:cx="29.795607"
+       sodipodi:cy="266.34048"
+       sodipodi:rx="2.271791"
+       sodipodi:ry="2.271791"
+       sodipodi:start="0"
+       sodipodi:end="6.2546778"
+       d="m 32.067398,266.34048 a 2.271791,2.271791 0 0 1 -2.255601,2.27174 2.271791,2.271791 0 0 1 -2.287751,-2.23935 2.271791,2.271791 0 0 1 2.222992,-2.30366 2.271791,2.271791 0 0 1 2.319437,2.20652"
+       sodipodi:open="true" />
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.66500002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 27.523829,266.21048 V 177.98607"
+       id="path4558-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.66500002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 29.765625,270.13758 V 266.41"
+       id="path4558-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.335945"
+       y="281.82101"
+       id="text6081"><tspan
+         sodipodi:role="line"
+         id="tspan6079"
+         x="25.335945"
+         y="281.82101"
+         style="stroke-width:0.26458332">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.73865414px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11846635"
+       x="43.863308"
+       y="190.17589"
+       id="text6085"><tspan
+         sodipodi:role="line"
+         id="tspan6083"
+         x="43.863308"
+         y="190.17589"
+         style="stroke-width:0.11846635">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="12.095242"
+       y="175.85861"
+       id="text6089"><tspan
+         sodipodi:role="line"
+         id="tspan6087"
+         x="12.095242"
+         y="175.85861"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Nichrome Wire</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="45.735123"
+       y="269.21872"
+       id="text6093"><tspan
+         sodipodi:role="line"
+         x="45.735123"
+         y="269.21872"
+         style="font-size:4.23333311px;stroke-width:0.26458332"
+         id="tspan6095">Conductive Pulley</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 73.894343,204.01784 C 91.202244,200.94359 82.782856,181.41 92.793155,173.40177"
+       id="path6105"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="88.635414"
+       y="185.49699"
+       id="text6109"><tspan
+         sodipodi:role="line"
+         id="tspan6107"
+         x="88.635414"
+         y="185.49699"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Wire to complete </tspan><tspan
+         sodipodi:role="line"
+         x="88.635414"
+         y="190.78867"
+         style="font-size:4.23333311px;stroke-width:0.26458332"
+         id="tspan6111">the circuit</tspan></text>
+  </g>
+</svg>
